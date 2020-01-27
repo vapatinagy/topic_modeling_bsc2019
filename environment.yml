@@ -5,7 +5,6 @@ dependencies:
   - python
   - spacy
   - pandas
-  - sklearn
   - numpy
   - pip
   - pip:

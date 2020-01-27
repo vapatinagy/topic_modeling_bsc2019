@@ -1,10 +1,14 @@
 name: vapatinagy
 channels:
-- conda-forge
+  - conda-forge
 dependencies:
-- python
-- pip
-- pip:
- - spacy
- - strings
- - pandas
+  - python
+  - spacy
+  - pandas
+  - sklearn
+  - numpy
+  - pip
+  - pip:
+    - spacy
+    - strings
+    - pandas

@@ -1,0 +1,10 @@
+name: vapatinagy
+channels:
+- conda-forge
+dependencies:
+- python
+- pip
+- pip:
+ - spacy
+ - strings
+ - pandas

@@ -7,6 +7,9 @@ dependencies:
   - pandas
   - numpy
   - conda:
-    - spacy
     - pandas
     - numpy
+    - spacy
+    - spacy:
+      - de_core_news_sm
+      - de_core_news_md

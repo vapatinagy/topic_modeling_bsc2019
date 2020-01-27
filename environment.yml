@@ -6,8 +6,7 @@ dependencies:
   - spacy
   - pandas
   - numpy
-  - pip
-  - pip:
+  - conda:
     - spacy
-    - strings
     - pandas
+    - numpy

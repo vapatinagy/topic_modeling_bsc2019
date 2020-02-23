@@ -1,7 +1,9 @@
 # topic_modeling_bsc2019
 This is my bachelor thesis.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vapatinagy/topic_modeling_bsc2019/master)
+"TOPIC MODELING FOR REAL-LIFE LANGUAGE USE OF ADULTS VARYING IN AGE"
+BACHELORARBEIT IM FACH WIRTSCHAFTSINFORMATIK
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/vapatinagy/topic_modeling_bsc2019/master
+Angefertigt am Institut für Informatik der Universität Zürich
+Professor: Prof. Dr. Martin Volk, Betreuer: Dr. Simon Clematide
+Abgabe der Arbeit: 21. Februar 2020
